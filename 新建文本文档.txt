@@ -1,0 +1,4 @@
+ServerName=$HOSTNAME$
+It=1742981413
+EasyFindId=56gVFHD2kHT9NbTfgovnr1
+EasyFindPin=6FGCrQ
